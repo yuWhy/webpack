@@ -1,0 +1,10 @@
+@import "./a.css";
+body {
+    background-color: red;
+}
+.tram {
+    width: 50px;
+    height: 20px;
+    border: 1px solid #000000;
+   background: url("./a.jpg");
+}

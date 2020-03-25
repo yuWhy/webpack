@@ -1,23 +1,130 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8995125b-54ce-4486-a7fa-51f64519a611" name="默认更改列表" comment="" />
+    <list default="true" id="8995125b-54ce-4486-a7fa-51f64519a611" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10/webpack.config.react.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/src/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/src/a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/src/b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/src/c.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/src/other.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15/1/src/a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15/1/src/base/b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15/1/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15/1/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15/2/bin/zf-pack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15/md.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2样式处理/history/bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2样式处理/history/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2样式处理/md.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2样式处理/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2样式处理/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2样式处理/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2样式处理/src/a.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2样式处理/src/a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2样式处理/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2样式处理/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2样式处理/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2样式处理/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3js处理和es6转换/history/bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3js处理和es6转换/history/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3js处理和es6转换/md.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3js处理和es6转换/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3js处理和es6转换/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3js处理和es6转换/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3js处理和es6转换/src/a.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3js处理和es6转换/src/a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3js处理和es6转换/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3js处理和es6转换/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3js处理和es6转换/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3js处理和es6转换/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4图片处理/history/bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4图片处理/history/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4图片处理/md.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4图片处理/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4图片处理/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4图片处理/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4图片处理/src/a.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4图片处理/src/a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4图片处理/src/a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4图片处理/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4图片处理/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4图片处理/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4图片处理/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/md.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/src/other.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/dist/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/dist/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/md.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/src/other.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7/md.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7/src/other.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/webpack.dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/webpack.prod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9/md.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/history/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/15/1/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/dist/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/md.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/base/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/base/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/src/a.js" beforeDir="false" afterPath="$PROJECT_DIR$/base/src/a.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/base/webpack.config.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="webpack" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="XSLT Stylesheet" />
         <option value="Pug File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\webpack\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1ZTshi0iTiVYHBSCpMc3cQr32hM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -26,14 +133,40 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/15" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\webpack\4图片处理\src" />
+      <recent name="D:\webpack\4图片处理" />
+      <recent name="D:\webpack\2样式处理\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\webpack\15" />
+      <recent name="D:\webpack\9" />
+      <recent name="D:\webpack" />
+      <recent name="D:\webpack\5" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="a.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/15/1/src/a.js" working-dir="$PROJECT_DIR$/15/1/src">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.a.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -45,7 +178,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584874538620</updated>
-      <workItem from="1584874541060" duration="2168000" />
+      <workItem from="1584874541060" duration="3002000" />
+      <workItem from="1584937522837" duration="44727000" />
     </task>
     <servers />
   </component>
@@ -57,5 +191,85 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="322" y="130" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1366.728@0.0.1366.728" timestamp="1584880240573" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585030214717">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1585030214717" />
+    <state x="328" y="0" key="FileDocumentManager.FileCacheConflict" timestamp="1585023457783">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="328" y="0" key="FileDocumentManager.FileCacheConflict/0.0.1366.728@0.0.1366.728" timestamp="1585023457783" />
+    <state width="1270" height="95" key="GridCell.Tab.0.bottom" timestamp="1585132341876">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1270" height="95" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585132341876" />
+    <state width="1270" height="95" key="GridCell.Tab.0.center" timestamp="1585132341876">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1270" height="95" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585132341876" />
+    <state width="1270" height="95" key="GridCell.Tab.0.left" timestamp="1585132341876">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1270" height="95" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585132341876" />
+    <state width="1270" height="95" key="GridCell.Tab.0.right" timestamp="1585132341876">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1270" height="95" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585132341876" />
+    <state width="1270" height="95" key="GridCell.Tab.1.bottom" timestamp="1585132341877">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1270" height="95" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585132341877" />
+    <state width="1270" height="95" key="GridCell.Tab.1.center" timestamp="1585132341876">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1270" height="95" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1585132341876" />
+    <state width="1270" height="95" key="GridCell.Tab.1.left" timestamp="1585132341876">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1270" height="95" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1585132341876" />
+    <state width="1270" height="95" key="GridCell.Tab.1.right" timestamp="1585132341876">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1270" height="95" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1585132341876" />
+    <state width="1270" height="95" key="GridCell.Tab.2.bottom" timestamp="1585132341877">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1270" height="95" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585132341877" />
+    <state width="1270" height="95" key="GridCell.Tab.2.center" timestamp="1585132341877">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1270" height="95" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1585132341877" />
+    <state width="1270" height="95" key="GridCell.Tab.2.left" timestamp="1585132341877">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1270" height="95" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1585132341877" />
+    <state width="1270" height="95" key="GridCell.Tab.2.right" timestamp="1585132341877">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1270" height="95" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1585132341877" />
+    <state width="1270" height="95" key="GridCell.Tab.3.bottom" timestamp="1585132341878">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1270" height="95" key="GridCell.Tab.3.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585132341878" />
+    <state width="1270" height="95" key="GridCell.Tab.3.center" timestamp="1585132341877">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1270" height="95" key="GridCell.Tab.3.center/0.0.1366.728@0.0.1366.728" timestamp="1585132341877" />
+    <state width="1270" height="95" key="GridCell.Tab.3.left" timestamp="1585132341877">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1270" height="95" key="GridCell.Tab.3.left/0.0.1366.728@0.0.1366.728" timestamp="1585132341877" />
+    <state width="1270" height="95" key="GridCell.Tab.3.right" timestamp="1585132341878">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1270" height="95" key="GridCell.Tab.3.right/0.0.1366.728@0.0.1366.728" timestamp="1585132341878" />
+    <state x="537" y="279" key="VCS.ChangelistChooser" timestamp="1585133411462">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="537" y="279" key="VCS.ChangelistChooser/0.0.1366.728@0.0.1366.728" timestamp="1585133411462" />
+    <state x="367" y="97" width="632" height="534" key="find.popup" timestamp="1584952851401">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="367" y="97" width="632" height="534" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1584952851401" />
   </component>
 </project>
